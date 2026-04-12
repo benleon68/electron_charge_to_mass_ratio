@@ -1,4 +1,4 @@
-# Electron Charge-to-Mass Ratio of the Electron
+# Charge-to-Mass Ratio of the Electron
 
 ## Overview
 This repository contains a Jupyter notebook analyasis of experimental data used to investigate the charge-to-mass ratio of the electron. The project uses Python for data analysis, plotting, and interpretation of results.
